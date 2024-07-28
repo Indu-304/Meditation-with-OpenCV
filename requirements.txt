@@ -1,0 +1,7 @@
+scipy
+imutils
+dlib
+opencv-python
+fer
+numpy
+pyaudio
